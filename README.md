@@ -7,7 +7,6 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✦-INDIFFERENT-000?style=flat-square&border=white" />
   <img src="https://img.shields.io/badge/✦-SOFTWARE_ENGINEERING-000?style=flat-square" />
 </p>
 <br>
